@@ -26,7 +26,7 @@ public class CompanionDog
 
     public CompanionDog()
     {
-        //elpepito
+        //elpepe
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         // Register the commonSetup method for modloading
