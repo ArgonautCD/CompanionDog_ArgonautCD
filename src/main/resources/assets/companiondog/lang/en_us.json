@@ -1,0 +1,17 @@
+{
+  "item.companiondog.dog_collar": "Dog Collar",
+  "tooltip.companiondog.dog_collar_shift.tooltip": "Call a companion dog to help you",
+  "dog.companiondog.alreadyhasone": "You already have a dog!",
+
+  "tooltip.companiondog.noshift.tooltip": "Hold <SHIFT> for more information",
+
+  "item.companiondog.companiondog_spawnegg": "Generate companion dog",
+  "entity.companiondog.goldenretriever" : "Companion dog",
+
+  "item.companiondog.soul_orb_3d": "Soul orb",
+  "tooltip.companiondog.soul_orb_shift_1.tooltip": "Illuminates around and protects you from a horrible end",
+  "tooltip.companiondog.soul_orb_shift_2.tooltip": "-\"Even if we are far away, I will always be with you!\"",
+
+  "screen.name_dog_title": "Name your dog:"
+
+}

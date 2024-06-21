@@ -1,3 +1,17 @@
 {
-  "item.companiondog.dog_collar": "Collar de perro"
+  "item.companiondog.dog_collar": "Collar de perro",
+  "tooltip.companiondog.dog_collar_shift.tooltip": "Llama a un perro de compañía para ayudarte",
+  "dog.companiondog.alreadyhasone": "Ya tienes un perro!",
+
+  "tooltip.companiondog.noshift.tooltip": "Mantén <SHIFT> para más información",
+
+  "item.companiondog.companiondog_spawnegg": "Generar perro de compañía",
+  "entity.companiondog.goldenretriever" : "Perro de compañía",
+
+  "item.companiondog.soul_orb_3d": "Orbe de alma",
+  "tooltip.companiondog.soul_orb_shift_1.tooltip": "Ilumina alrededor y te protege de un horrible final",
+  "tooltip.companiondog.soul_orb_shift_2.tooltip": "-\"Incluso si estamos lejos, yo siempre estaré contigo!\"",
+
+  "screen.name_dog_title": "Nombra a tu perro:"
+
 }

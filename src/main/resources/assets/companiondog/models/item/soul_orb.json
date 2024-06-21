@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "companiondog:item/wearable/soul_orb_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "companiondog:item/wearable/soul_orb_3d"
+    },
+    "ground": {
+      "parent": "companiondog:item/wearable/soul_orb_3d"
+    },
+    "fixed": {
+      "parent": "companiondog:item/wearable/soul_orb_3d"
+    }
+  }
+}
